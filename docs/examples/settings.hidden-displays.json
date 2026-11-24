@@ -1,0 +1,293 @@
+{
+  "ConfigVersion": 2,
+  "RaidEnabled": true,
+  "RaidItemClassname": "Lockpick",
+  "RaidDurationSeconds": 300.0,
+  "RaidToolDamagePercent": 25.0,
+  "ConsumeRaidItem": false,
+  "DismantleDurationSeconds": 10.0,
+  "SolarEnergyPerSecond": 0.15,
+  "SolarSunriseHour": 6.0,
+  "SolarSunsetHour": 18.0,
+  "WallLampEnergyPerSecond": 0.005,
+  "FloorLampEnergyPerSecond": 0.01,
+  "FridgeEnergyPerSecond": 0.02,
+  "FridgeTemperatureC": 4.0,
+  "FridgeDecayMultiplier": 0.2,
+  "TrashConfirmSeconds": 10.0,
+  "ShowAttachmentsByDefault": false,
+  "AttachmentDisplay": [
+    {
+      "ItemClassname": "VBI_WoodCrate",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_MilitaryCrate",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_WeaponCase",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_AmmoBox",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_CrateShelf",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_MedicineCabinet",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_ToolWall",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_ToolCart",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Locker",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_TripleLocker",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Mannequin",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_GunRack",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_GunWall",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_SmallSafe",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_LargeSafe",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Fridge",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_SolarPanel",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_PlanterBox",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Greenhouse",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_TrashBin",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_WallLamp",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_FloorLamp",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Sofa",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Armchair",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Table",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Chair",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Floodlight",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_GasGrill",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_LogStorageRack",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_PlankStorageRack",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_NailStorageStand",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_SheetMetalRack",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Mailbox",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_PowerStrip",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_MilitaryLocker",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_OpenTacticalLocker",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_HeavyWeaponCabinet",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_MilitaryFieldLocker",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_AmmoDrawerCabinet",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_GrenadeCase",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_TallSafe",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_WallClock",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Painting",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_PhotoFrames",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Rug",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_DecorTableLamp",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Candelabra",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_CandleTray",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_FloorVase",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_BookStack",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_TubeRadio",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_CRTTV",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_RotaryTelephone",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Gramophone",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Samovar",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_TeaSet",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Matryoshka",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_AntlerTrophy",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Cushion",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_ChessSet",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_WallFloodlight",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_TravelTrunk",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_StorageWorkbench",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Dresser",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_CampingCooler",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_Toolbox",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_MilitaryCabinet",
+      "ShowAttachments": false
+    },
+    {
+      "ItemClassname": "VBI_AntiqueWardrobe",
+      "ShowAttachments": false
+    }
+  ]
+}

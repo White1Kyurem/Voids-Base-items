@@ -1,0 +1,13 @@
+{
+  "ConfigVersion": 1,
+  "Wall": {
+    "RadiusMeters": 8.0,
+    "TargetTemperatureC": 18,
+    "EnergyUsagePerSecond": 0.07
+  },
+  "Floor": {
+    "RadiusMeters": 4.0,
+    "TargetTemperatureC": 20,
+    "EnergyUsagePerSecond": 0.04
+  }
+}
